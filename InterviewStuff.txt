@@ -1,16 +1,26 @@
 Interview Questions
-iOS
- How do you handle asynchronous networking?
+
+How do you handle asynchronous networking?
+
 Have you ever worked with multi-threaded Core Data? How was it?What approach did you use?
+
 Have you ever worked with Core Animation? Can you tell me about that? What kind of animations? (grace notes for an app versus canned table view insertion or bulk affine transforms)
+
 Have you ever worked with Core Graphics? (answer for Mac devs should be a resounding "HELL YES I DID”) ? What kinds of things did you do?
+
 Have you ever filed any verified issues against Apple frameworks on radar?Can you describe them to me? Better still, can you point them out on open radar?
+
 Compare and contrast NSNotification vs KVO. When would you use one or the other? What are the implications of using them?
 Have you ever worked with NSOperationQueue? What did you use it for?
+
 Please tell me about your Core Text experience.
+
 How would you use NSURLConnection on a background thread?
+
 What kinds of issues should someone be aware of when working with blocks?
+
  Have you ever built any custom frameworks or libraries? What's your preferred method of working on an application in parallel with a library?
+ 
 What was the latest version of iOS you worked with? What do you like about it and why?  The purpose of this question is to inquire if the interviewee actually keeps up with the latest development from Apple.   Expected answer:  he/she tells you what the latest version of the system is and what he/she has worked with lately. And tells you about one of the new features of the system that he/she is excited about (i.e. I love new multitasking on iPad because it’s going to make user experience way better and opens up a lot of opportunities for us developers to build new cool things, etc.).
 Have you worked with Swift? What do you like about it? What you don’t like?  This question will give you a sense of several things:  is he cautious with using something as unstable as Swift. For example 2.0/2.1 releases broke a lot of things/libraries and a senior developer would think twice about using Swift on a production application. Because a lot of libraries and frameworks necessary for production ready iOS development either do not exist yet in pure Swift or do not work anymore with newer versions of the language (as of today - 11/11/15). whether the developer is bold enough to play with the cutting edge stuff. what’s his long terms plans and expectations (is he optimistic or pessimistic or somewhere in between) Expected answer: be cautious, use Swift along with Objective-C for now and move to pure Swift down the road in several years when it and the ecosystem of libraries around it matures enough.
 How memory management is handled on iOS?  This question will give you an idea of how long the person was working with iOS, whether she/he’s a newcomer who’s worked only with ARC or he/she’s worked with manual retain count (MRC) and has a deeper knowledge/experience with memory management on iOS.  Expected answer: it is great if interviewee knows MRC but it is not necessary. More important that he/she understands `strong`, `weak`, `assign`, etc. directives on properties and can confidently tell you what those directives imply and how it’s handled with blocks.
