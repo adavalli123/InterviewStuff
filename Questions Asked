@@ -5,7 +5,6 @@ Interview Questions
 3. What will happen if every task runs on main thread?
 4. What will happen if every task runs on background thread?
 
-
 Nike Interview: 
 Global Store Solutions: 
 
@@ -20,3 +19,9 @@ viber architectures
 Design Patterns : MVC, Singleton, Delegation, Viper Architecture.
 
 What are storyboards? 
+
+Difference between Aspect Ratio Vs Contraints Which one is good.
+Difference Between NSURLSession, NSURLConnection and Alamofire
+Difference between NSoperationQueue Vs GCD
+
+How to handle two threads in sequential
