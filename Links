@@ -1,3 +1,6 @@
 ARC:
 http://maribatilando.com/coding/2014/12/30/automatic-reference-counting-in-swift.html
 http://krakendev.io/blog/weak-and-unowned-references-in-swift
+
+Difference b/w NSURLConnection & NSURLSession:
+http://me.deepakbhati.com/2016/02/26/nsurlsession/
